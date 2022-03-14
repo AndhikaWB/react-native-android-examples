@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Tugas2",
+    "slug": "Tugas2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/_launcher/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/_launcher/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/_launcher/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.andhikawb.pam_tugas2"
+    },
+    "web": {
+      "favicon": "./assets/_launcher/favicon.png"
+    }
+  }
+}
