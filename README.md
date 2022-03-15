@@ -1,5 +1,5 @@
-# Tugas 2
-Repo ini berisi source code untuk aplikasi tugas ke 2, yaitu tentang studi kasus jadwal penerbangan pesawat.
+# Tugas 3
+Repo ini berisi source code untuk aplikasi tugas ke 3, yaitu tentang studi kasus jadwal penerbangan pesawat.
 Terdapat beberapa library yang digunakan seperti `react-navigation`, `react-native-picker`, `react-native-svg`, dan lain-lain.
 
 ## Identitas Diri
