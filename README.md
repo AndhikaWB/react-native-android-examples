@@ -10,7 +10,7 @@ Tiap aplikasi dibedakan ke dalam **branch yang berbeda**, dengan branch `master`
 |Kelas|PAM RA|
 
 ## Daftar Tugas
-- [x] Tugas 2 - Penggunaan `state`, `props`, `ScrollView`, dll (studi kasus jadwal penerbangan pesawat)
+- [x] [Tugas 3](https://github.com/AndhikaWB/react-native-android-examples/tree/tugas2) - Penggunaan `state`, `props`, `ScrollView`, dll (studi kasus jadwal penerbangan pesawat)
 - [ ] Tugas X - ???
 - [ ] Tugas X - ???
 - [ ] Tugas X - ???
