@@ -1,0 +1,1402 @@
+[
+  {
+    "asal": "Merak (Banten)",
+    "index": 0,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-149142-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 1,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-188002-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 2,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-193816-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 3,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-117566-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 4,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-182891-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 5,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-111881-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 6,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-152844-MNT"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 7,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-114868-MNT"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 8,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-148519-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 9,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-106857-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 10,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-120970-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 11,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-166226-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 12,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-143905-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 13,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-130132-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 14,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-143649-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 15,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-137139-MRK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 16,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-124305-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 17,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-131329-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 18,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-105340-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 19,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "ID-176645-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 20,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-100956-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 21,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-142116-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 22,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-119230-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 23,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-157150-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 24,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "ID-109407-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 25,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-148423-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 26,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-127554-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 27,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "AU-155481-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 28,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-189646-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 29,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-112422-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 30,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-131179-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 31,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-139563-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 32,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-168920-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 33,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-177555-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 34,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-163118-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 35,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-104974-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 36,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-172986-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 37,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "AU-190316-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 38,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-101927-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 39,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "AU-184886-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 40,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-109804-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 41,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-162079-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 42,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "AU-149785-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 43,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-110519-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 44,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "ID-131141-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 45,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-171433-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 46,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-152425-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 47,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-174812-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 48,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-117458-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 49,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "ID-117826-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 50,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-129845-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 51,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-140144-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 52,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-188463-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 53,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-195541-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 54,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-131446-MRK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 55,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-155870-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 56,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-110369-BLD"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 57,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-156712-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 58,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-113425-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 59,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-130814-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 60,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-188104-BLD"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 61,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-149519-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 62,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-154759-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 63,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "MY-138464-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 64,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "AU-131884-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 65,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-101799-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 66,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-140163-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 67,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-100313-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 68,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-107160-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 69,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-113563-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 70,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-139649-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 71,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-131407-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 72,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-189725-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 73,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-118118-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 74,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-121591-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 75,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-175584-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 76,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-138397-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 77,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-128635-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 78,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-126376-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 79,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "AU-134779-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 80,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-177494-BLD"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 81,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-187906-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 82,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "AU-116498-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 83,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-194337-BLD"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 84,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-120083-TNA"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 85,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-155753-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 86,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-127347-TNA"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 87,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-121111-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 88,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-154602-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 89,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "ID-127280-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 90,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-168819-BLD"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 91,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-194383-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 92,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-198560-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 93,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "MY-115261-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 94,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-127677-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 95,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-117771-BLD"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 96,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-163781-BLD"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 97,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-140489-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 98,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "MY-102142-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 99,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-110461-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 100,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-132353-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 101,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-129713-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 102,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-125603-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 103,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-183351-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 104,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-143664-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 105,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-137664-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 106,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-145998-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 107,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-197669-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 108,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-190534-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 109,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-182845-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 110,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-123082-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 111,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-170113-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 112,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-130062-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 113,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-146762-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 114,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-105021-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 115,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-173960-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 116,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-117468-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 117,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-121270-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 118,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-186950-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 119,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-114836-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 120,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-151193-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 121,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-184479-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 122,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-124582-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 123,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-127793-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 124,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-162895-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 125,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-147332-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 126,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-169119-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 127,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-139032-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 128,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-190847-RNK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 129,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "AU-146845-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 130,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-114224-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 131,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-195525-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 132,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-103801-RNK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 133,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "MY-145723-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 134,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-105568-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 135,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-184220-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 136,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-108287-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 137,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-111703-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 138,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-195161-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 139,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-174573-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 140,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-115371-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 141,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-170828-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 142,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-162163-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 143,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-115851-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 144,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-196417-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 145,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-172028-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 146,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-191667-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 147,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-129008-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 148,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-187116-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 149,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-132287-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 150,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-192123-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 151,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-122972-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 152,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-121859-MNT"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 153,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-177847-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 154,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-148244-BLD"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 155,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-123656-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 156,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "TH-160155-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 157,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-104562-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 158,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-129511-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 159,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "MY-100109-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 160,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "SG-112859-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 161,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-160611-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 162,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-108232-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 163,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-107201-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 164,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-197331-BLD"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 165,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-150173-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 166,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "MY-120981-MRK"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 167,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "TH-195516-TNA"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 168,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-115195-BLD"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 169,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-191716-MNT"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 170,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-171810-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 171,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-198879-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 172,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "ID-171815-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 173,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "SG-189800-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 174,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "SG-170993-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 175,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "MY-184567-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 176,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "SG-189347-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 177,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-139636-TNA"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 178,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-173219-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 179,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-154952-TNA"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 180,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "ID-104494-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 181,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-172118-MRK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 182,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "AU-187847-BLD"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 183,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-135726-MNT"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 184,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-162658-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 185,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-139851-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 186,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-174465-MJR"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 187,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-113335-MRK"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 188,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "TH-137693-KRP"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 189,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "AU-175501-SNG"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 190,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "AU-100843-TNA"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 191,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "ID-108723-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 192,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "SG-145171-RNK"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 193,
+    "tujuan": "Bakauheni (Lampung)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "ID-161068-MJR"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 194,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-135160-KRP"
+  },
+  {
+    "asal": "Tanjung Priok (Jakarta)",
+    "index": 195,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-21",
+    "id_kapal": "TH-198120-SNG"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 196,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-22",
+    "id_kapal": "AU-157046-SNG"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 197,
+    "tujuan": "Sekupang (Kepulauan Riau)",
+    "tanggal": "2022-03-23",
+    "id_kapal": "MY-198982-KRP"
+  },
+  {
+    "asal": "Merak (Banten)",
+    "index": 198,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-24",
+    "id_kapal": "AU-174042-MJR"
+  },
+  {
+    "asal": "Tanjung Perak (Jawa Timur)",
+    "index": 199,
+    "tujuan": "Gilimanuk (Bali)",
+    "tanggal": "2022-03-25",
+    "id_kapal": "TH-196596-TNA"
+  }
+]
