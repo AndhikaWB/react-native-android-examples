@@ -9,7 +9,7 @@ Terdapat beberapa library yang digunakan seperti `react-navigation`, `expo-conta
 |NIM|119140218|
 |Kelas|PAM RA|
 
-## Tata Cara Build APK ([unduh](docs/RA-Andhika Wibawa-119140218-Tugas Individu 4.apk))
+## Tata Cara Build APK ([unduh](docs/RA-Andhika%20Wibawa-119140218-Tugas%20Individu%204.apk))
 1. Pastikan Expo dan React (Native) telah terpasang pada perangkat
 2. Gunakan `npm install` untuk memasang semua dependensi aplikasi yang dibutuhkan
 2. Gunakan `expo start --android` untuk menjalankan aplikasi di emulator Expo Android (Tekan `Ctrl + C` untuk berhenti)
