@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Tugas4",
+    "slug": "Tugas4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/_launcher/icon.png",
+    "splash": {
+      "image": "./assets/_launcher/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/_launcher/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_CONTACTS",
+        "WRITE_CONTACTS"
+      ],
+      "package": "com.andhikawb.pam_tugas4"
+    },
+    "web": {
+      "favicon": "./assets/_launcher/favicon.png"
+    },
+    "sdkVersion": "44.0.0"
+  },
+  "plugins": [
+    [
+      "expo-image-picker",
+      {
+        "photosPermission": "The app accesses your photos to let you choose contact photo.",
+        "cameraPermission": "The app accesses your camera to let you add contact photo."
+      }
+    ],
+    [
+      "expo-contacts"
+    ]
+  ]
+}
